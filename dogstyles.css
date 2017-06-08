@@ -1,0 +1,116 @@
+*{
+  text-align: center;
+  font-family: 'Raleway', sans-serif !important;
+  box-sizing: content-box;
+  margin: 5px;
+}
+
+header{
+  background-color:#92E0E5;
+  color: white;
+  z-index: 999;
+  height: 50px;
+  padding-bottom: 10px;
+}
+
+.icon{
+  position: absolute;
+  left: 5px;
+  top: 10px;
+  height: 20px;
+  width: 20px;
+}
+
+.logo{
+  margin-left: 2%;
+}
+
+ul{
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.links {
+  color: white;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+li {
+  float: right;
+  padding: 8px;
+  color: white;
+}
+
+.open {
+  background-image: url("images/park.jpg");
+  display: border-box;
+  margin-top: -22px;
+}
+
+h2{
+  padding-top: 20px;
+  font-weight: 100;
+  font-family: 'Raleway' sans-serif !important;
+}
+
+img.top-dog {
+  border-radius: 50%;
+  border: 3px solid #3E8CA6;
+  width: 200px;
+}
+
+.top-button{
+  padding-bottom: 20px;
+  margin-top: 10px;
+}
+
+img.round-dogs {
+  border-radius: 50%;
+  border: 3px solid #3E8CA6;
+  width: 150px;
+}
+
+button{
+   border: 3px solid #3E8CA6;
+   background-color: #FFFFFF;
+   color: #3E8CA6;
+   padding: 4px 12px;
+}
+
+h3{
+  font-weight: 100;
+}
+
+article {
+  display: inline-block;
+  width: 31.66%;
+  vertical-align: top;
+}
+
+footer{
+  background-color: #3E8CA6;
+}
+
+.white-text{
+  padding-top: 20px;
+  color: white;
+  font-weight: 100;
+}
+
+.social{
+  width: 30px;
+  padding: 15px;
+  padding-bottom: 20px;
+}
+
+.gitHub{
+  padding-bottom: 20px;
+  font-weight: 100;
+}
+
+.gitLink{
+  color: white;
+}
